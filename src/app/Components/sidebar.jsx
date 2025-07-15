@@ -9,6 +9,7 @@ export default function Sidebar() {
     { name: "Dashboard", icon: <FiHome />, path: "/dashboard" },
     { name: "Create-Trainer", icon: <FiUser />, path: "/dashboard/create-trainer" },
     { name: "view trainer", icon: <FiBook />, path: "/dashboard/TrainerTable" },
+  
   ];
 
   return (
